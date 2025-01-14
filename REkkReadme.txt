@@ -12,3 +12,5 @@ OPR
 STU (stage 4)
 VWY
 ZŻŹ 
+4
+5
