@@ -6,7 +6,7 @@
 0AB
 CDE (stage 2)
 FGH
-IJK
+IJK2
 LMN (stage 3)
 OPR
 STU (stage 4)
